@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The website is being hosted here: https://clever-lalande-97a823.netlify.app/.
 
 ## Available Scripts
 
